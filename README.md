@@ -1,0 +1,1 @@
+Hello! I made a basic word search game mad emostly with Javascript, a dash of html and a sprinkle of css. It's pretty simple, just find the words from the list on the word grid! Thank you for viewing my submission!
